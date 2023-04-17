@@ -1,0 +1,27 @@
+.navbar {
+  height: auto;
+  background-color: #3e2f5b;
+}
+
+.company-logo {
+  height: 25px;
+}
+
+.company-edu {
+  color: #FF6E29;
+}
+
+.company-connect {
+  color: #FFC433;
+}
+
+.search-bar {
+  width: auto;
+}
+
+#navbarNav {
+  color: #FFC433;
+  background-color: rgba(62, 47, 91, 0.9);
+  padding: 0;
+  padding-left: 20px;
+}

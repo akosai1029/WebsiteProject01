@@ -1,0 +1,47 @@
+.signup-form {
+  background-color: #3e2f5b;
+  height: auto;
+  border-radius: 45px/15px;
+  text-align: center;
+  padding: 20px 0;
+  max-width: 750px;
+}
+
+.signup-text {
+  color: white;
+  padding: 10px;
+  font-size: xx-large;
+  font-weight: 500;
+}
+
+.input-text{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+::placeholder {
+  font-size: 12px;
+}
+
+.data-policy {
+  margin-top: 20px;
+  color: white;
+  text-align: left;
+}
+
+.hyperlink {
+  color: #FFC433;
+}
+
+.submit {
+  margin: 20px;
+  border: none;
+  background-color: #FFC433;
+  color: #3e2f5b;
+  padding: 5px 20px;
+  border-radius: 15px/45px;
+  font-weight: bold;
+}
+
